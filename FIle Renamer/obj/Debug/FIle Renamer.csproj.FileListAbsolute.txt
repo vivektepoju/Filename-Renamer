@@ -1,0 +1,10 @@
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\bin\Debug\FIle Renamer.exe.config
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\bin\Debug\FIle Renamer.exe
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\bin\Debug\FIle Renamer.pdb
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\obj\Debug\FIle_Renamer.Form1.resources
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\obj\Debug\FIle_Renamer.Properties.Resources.resources
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\obj\Debug\FIle Renamer.csproj.GenerateResource.cache
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\obj\Debug\FIle Renamer.csproj.CoreCompileInputs.cache
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\obj\Debug\FIle Renamer.exe
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\obj\Debug\FIle Renamer.pdb
+C:\Users\tepoju.t\source\repos\FIle Renamer\FIle Renamer\obj\Debug\FIle Renamer.csproj.AssemblyReference.cache
